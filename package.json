@@ -32,6 +32,13 @@
     "test": "jest --coverage --watchAll --config=configs/jest.json"
   },
   "devDependencies": {
+    "@carbon/colors": "^10.9.2",
+    "@carbon/grid": "^10.10.2",
+    "@carbon/icons-react": "^10.10.2",
+    "@carbon/themes": "^10.11.2",
+    "carbon-components": "^10.11.2",
+    "carbon-components-react": "^7.11.3",
+    "carbon-icons": "^7.0.7",
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
